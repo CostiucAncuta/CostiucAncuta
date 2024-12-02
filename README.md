@@ -55,6 +55,8 @@
 1. 💬 Communication: Clear, honest, and respectful dialogue is key to success.
 1. 💡 Learning: I value a team that encourages growth, where everyone supports each other in becoming their best selves.
 
+
+# 📊 GitHub Stats
 [![Ancuta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CostiucAncuta&count_private=true&show_icons=true&theme=dracula&hide_rank=falase)](https://github.com/anuraghazra/github-readme-stats)
 
 
