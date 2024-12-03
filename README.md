@@ -10,7 +10,9 @@
 
 ##### My Three Most Surprising Skills 
 ✨ Pattern-Making Wizardry: I can transform a simple sketch into a precisely tailored garment that fits like a dream.
+
 ✨ Tech + Fashion Bridge: I’ve helped fashion brands embrace technology, like 3D body scanning, to improve size accuracy and reduce waste.
+
 ✨ Adaptability Master: From sewing machines to servers, I can pivot between industries and skills like a pro.
 
 -------
