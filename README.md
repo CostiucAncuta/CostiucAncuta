@@ -1,6 +1,6 @@
 ### Hi, I'm Ancuta – Aspiring Web Developer and Former Fashion wizard 👩‍💻👗
 
-##### Who am I? 🔮
+🔮
 
 > A creative soul transitioning from the world of high fashion to web development.<br>
 > After years of transforming designer sketches into runway-ready garments, I’ve embarked on a new adventure in tech, blending my artistic vision with code.<br>
