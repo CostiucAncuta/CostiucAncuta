@@ -1,6 +1,6 @@
-### Hello there 
+### Hello there 👋🏻
 
->I'm Ancuta – Aspiring Web Developer and Former Fashion wizard 👩‍💻👗
+>I'm **Ancuta** – Aspiring Web Developer and Former Fashion wizard 👩‍💻 👗🪄
 
 🔮
 > A creative soul transitioning from the world of high fashion to web development.<br>
